@@ -18,6 +18,6 @@ public class WelcomeController {
 	@RequestMapping("/w")
 	public String welcome(ModelMap map) {
 		map.put("currentDate", new Date());
-		return "welcome";
+		return "welcome test";
 	}
 }
