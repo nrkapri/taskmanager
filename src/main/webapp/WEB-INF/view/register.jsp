@@ -20,11 +20,11 @@
       <input type="name" class="form-control" id="firstname" placeholder="Enter firstname" name="firstname">
     </div>
     <div class="form-group">
-      <label for="lasttname">First Name:</label>
+      <label for="lasttname">Last Name:</label>
       <input type="name" class="form-control" id="lastname" placeholder="Enter latname" name="lastname">
     </div>
      <div class="form-group">
-      <label for="eid">First Name:</label>
+      <label for="eid">Emp Id:</label>
       <input type="number" class="form-control" id="eid" placeholder="Enter EID" name="eid">
     </div>
     <div class="form-group">
